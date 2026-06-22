@@ -22,24 +22,6 @@ A lightweight, modern, and educational **C++ database engine** built from scratc
 
 ---
 
-## 🏗️ Architecture
-
-┌────────────────────┐
-│      CLI Shell     │
-└─────────┬──────────┘
-          │
-          ▼
-┌────────────────────┐
-│    Query Parser    │
-└─────────┬──────────┘
-          │
-          ▼
-┌────────────────────┐
-│   Storage Engine   │
-└────────────────────┘
-
----
-
 ## 🗂️ Folder Structure
 
 ```text
