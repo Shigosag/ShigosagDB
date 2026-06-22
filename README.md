@@ -174,7 +174,7 @@ Example:
 
 ## 🎨 CLI Design
 
-- 🟣 Banner: Bold + Cyan
+- 🩵 Banner: Bold + Cyan
 - 🟢 Info logs: Green
 - 🟡 Warnings: Yellow
 - 🔴 Errors: Red
