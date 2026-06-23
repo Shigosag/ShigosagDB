@@ -102,6 +102,7 @@ pacman -S mingw-w64-ucrt-x86_64-gcc
 pacman -S make
 pacman -S mingw-w64-ucrt-x86_64-ninja
 pacman -S mingw-w64-ucrt-x86_64-boost
+pacman -S mingw-w64-ucrt-x86_64-cmake
 ```
 
 ### Clone Repository
