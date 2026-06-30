@@ -6,6 +6,20 @@ A lightweight, modern, and educational **C++ database engine** built from scratc
 > 👨‍💻 Author: Shigosag  
 > 🎯 Focus: Performance, simplicity, and real database behavior
 
+![Mini Database Build & Terminal](screenshots/database.png)
+
+### 🎥 Database Engine Demo & Walkthrough
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/c737c6af-24d2-424a-b41e-5494b1e6bbe9" width="100%" controls></video>
+</div>
+
+**Timestamps:**
+- **0:00** - Database build
+- **0:40** - Database launch & branding banner
+- **0:47** - Command input interface
+- **0:59** - GitHub Repository Overview
+
 ---
 
 ## 🚀 Features
