@@ -16,9 +16,9 @@ A lightweight, modern, and educational **C++ database engine** built from scratc
 
 **Timestamps:**
 - **0:00** - Database build
-- **0:40** - Database launch & branding banner
-- **0:47** - Command input interface
-- **0:59** - GitHub Repository Overview
+- **1:00** - Database launch & branding banner
+- **1:05** - Command input interface
+- **1:43** - GitHub Repository Overview
 
 ---
 
