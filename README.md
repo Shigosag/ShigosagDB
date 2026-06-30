@@ -1,5 +1,8 @@
 # 🗄️ ShigosagDB Engine
 
+[![C++](https://img.shields.io/badge/c++-17+-blue)](https://isocpp.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A lightweight, modern, and educational **C++ database engine** built from scratch, featuring a CLI interface, persistent storage, and structured record handling.
 
 > ⚡ Built for learning systems design, database internals, and low-level C++ architecture  
