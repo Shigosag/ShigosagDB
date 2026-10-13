@@ -41,6 +41,8 @@ A lightweight, modern, and educational **C++ database engine** built from scratc
 
 ## 🗂️ Folder Structure
 
+[![Architecture Diagram](https://img.shields.io/badge/View-GitDiagram-blue)](https://gitdiagram.com/Shigosag/ShigosagDB)
+
 ```text
 ShigosagDB/
 │
